@@ -59,20 +59,20 @@ photozip = 'https://envs.sh/cD_.jpg'
 
 
 # Inline keyboard for start command
-BUTTONSCONTACT = InlineKeyboardMarkup([[InlineKeyboardButton(text="📞 Contact", url="https://t.me/saini_contact_bot")]])
+BUTTONSCONTACT = InlineKeyboardMarkup([[InlineKeyboardButton(text="📞 Contact", url="https://t.me/Strangerboy27_bot_strangerboy")]])
 keyboard = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="🛠️ Help", url="https://t.me/+3k-1zcJxINYwNGZl"),
-            InlineKeyboardButton(text="🛠️ Repo", url="https://github.com/nikhilsainiop/saini-txt-direct"),
+            InlineKeyboardButton(text="👨‍💻 OWNER", url="https://t.me/Strangerboy27_bot_strangerboy"),
+            InlineKeyboardButton(text="📱 chek", url="https://t.me/Strangerboy27_bot_strangerboy"),
         ],
     ]
 )
 
 # Image URLs for the random image feature
 image_urls = [
-    "https://tinypic.host/images/2025/02/07/IMG_20250207_224444_975.jpg",
-    "https://tinypic.host/images/2025/02/07/DeWatermark.ai_1738952933236-1.png",
+    "https://i.ibb.co/7xm7cXyg/STRANGER-BOY.jpg",
+    "https://i.ibb.co/ZRvCxd5g/STRANGER-BOY.jpg",
     # Add more image URLs as needed
 ]
 
